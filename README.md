@@ -1,5 +1,5 @@
 # RootsByIterativeMethods
-##To solve for f(x) = 0 using Iterative Techniques like Bisection, Regular-Falsi and Newton-Raphson's methods.
+## To solve for f(x) = 0 using Iterative Techniques like Bisection, Regular-Falsi and Newton-Raphson's methods.
 
 Just compile & run main.cpp.
 
