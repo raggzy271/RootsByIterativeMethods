@@ -3,4 +3,4 @@
 
 Just compile & run main.cpp.
 
-input.cpp will input f(x) and method.cpp will solve for it.
+input.cpp will input f(x) and method.cpp will solve it.
