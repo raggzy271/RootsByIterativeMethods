@@ -9,7 +9,3 @@ int main(){
     system("del equation.cpp");
     return 0;
 }
-
-
-
-//remove stuff
